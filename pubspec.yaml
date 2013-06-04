@@ -1,0 +1,8 @@
+name: nuxeo_dart_automation_sample
+description: A sample Nuxeo Automation WebUI application
+dependencies:
+  nuxeo:
+    git: git://github.com/nelsonsilva/nuxeo_dart_automation.git
+  browser: any
+  js: any
+  web_ui: any
